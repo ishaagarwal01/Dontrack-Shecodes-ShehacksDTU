@@ -5,14 +5,14 @@
 <h1>Introduction</h1>  <BR>
 There are thousands of nonprofit organizations in the nonprofit sector, and each serves a particular purpose. Many people tend to fund those NGO’s but keep doubts that if there donation goes in the safe hands? 
 There’s no single formula for nonprofit application development, but there are a few common elements that help these apps succeed. To solve this randomness we come up with “DONTRACK” – which is a one stop platform for donation and tracking of several NGO’s.
-    <h1>TECH STACK USED:</h1>
+    <h3>TECH STACK USED:</h3>
         <ol>
             <li>HTML</li>
             <li>CSS</li>
             <li>JS</li>
             <li>Tezos</li>
         </ol> 
-STEPS TO RUN:
+    <h3>STEPS TO RUN:</h3>
 <ul>
   <li>make sure you already have installed node </li>
   <li>run npm install </li>
