@@ -13,11 +13,10 @@ There’s no single formula for nonprofit application development, but there are
             <li>CSS</li>
             <li>JS</li>
             <li>Tezos</li>
-            
-        
-        </ol> <BR>
+        </ol> 
+        <BR>
        
-       STEPS TO RUN
+      <h3> STEPS TO RUN</h3>
 <ul>
   <li>make sure you already have installed node </li>
   <li>run npm install </li>
