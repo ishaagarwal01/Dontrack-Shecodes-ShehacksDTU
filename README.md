@@ -15,8 +15,9 @@ There’s no single formula for nonprofit application development, but there are
             <li>Tezos</li>
             
         
-        </ol>
-       <BR>STEPS TO RUN
+        </ol> <BR>
+       
+       STEPS TO RUN
 <ul>
   <li>make sure you already have installed node </li>
   <li>run npm install </li>
